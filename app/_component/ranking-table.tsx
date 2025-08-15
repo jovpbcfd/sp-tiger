@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { data } from "@/data/ranking";
 
 export default function RankingTable() {
