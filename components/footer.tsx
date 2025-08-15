@@ -78,7 +78,7 @@ const Footer = () => {
 
           <div className="flex flex-wrap gap-4">
             <span>BEGINNER TEACHING</span>
-            <span>ABOUT PANALOBET</span>
+            <span>ABOUT SWERTE PLUS</span>
             <span>APP DOWNLOAD</span>
           </div>
 
