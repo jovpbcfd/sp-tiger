@@ -24,7 +24,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] lg:w-[450px] lg:h-[450px] border-dashed border-gray-500 rounded-md flex items-center justify-center">
-          <Image src="/img/HERO.png" width={450} height={450} alt="Hero" />
+          <Image src="/img/HERO_V2.png" width={450} height={450} alt="Hero" />
         </div>
       </div>
     </section>
