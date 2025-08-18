@@ -19,15 +19,29 @@ export default function VisualizeChart() {
     <div
       ref={containerRef}
       className="flourish-embed flourish-bar-chart-race"
-      data-src="visualisation/23497414"
+      data-src="visualisation/24722972"
     >
       <noscript>
         <img
-          src="https://public.flourish.studio/visualisation/23497414/thumbnail"
+          src="https://public.flourish.studio/visualisation/24722972/thumbnail"
           width="100%"
           alt="bar-chart-race visualization"
         />
       </noscript>
+
+      {/* <div
+        className="flourish-embed flourish-bar-chart-race"
+        data-src="visualisation/24722972"
+      >
+        <script src="https://public.flourish.studio/resources/embed.js"></script>
+        <noscript>
+          <img
+            src="https://public.flourish.studio/visualisation/24722972/thumbnail"
+            width="100%"
+            alt="bar-chart-race visualization"
+          />
+        </noscript>
+      </div> */}
     </div>
   );
 }
