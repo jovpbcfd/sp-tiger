@@ -18,6 +18,7 @@ export default function RankingTable() {
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">
               MINIMUM VALID BET BONUS
             </th>
+            <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">BONUS</th>
             {/* <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">WEEKLY</th>
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">MONTHLY</th> */}
           </tr>

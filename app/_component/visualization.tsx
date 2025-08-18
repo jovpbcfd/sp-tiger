@@ -25,7 +25,7 @@ export default function Visualization() {
           </div>
         </div>
       </section>
-      <section className="pb-12 lg:pb-20">
+      {/* <section className="pb-12 lg:pb-20">
         <div className="p-4">
           <div className="max-w-[1200px] mx-auto bg-[#2B0F00] rounded-[23px] border-2 border-[#FFCE4B] px-2 py-8 lg:py-15">
             <h3 className="text-[#FFE207] text-center font-bold mb-2 lg:text-[30px]/9 text-balance lg:w-[80%] lg:mx-auto lg:mb-8">
@@ -46,7 +46,7 @@ export default function Visualization() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
