@@ -16,7 +16,7 @@ export const data = [
   },
   {
     rank: "LV4",
-    bet: "100000",
+    bet: "100,000",
     bonus: "200",
   },
   {
