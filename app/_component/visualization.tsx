@@ -1,13 +1,13 @@
 // import Image from "next/image";
 import RankingTable from "./ranking-table";
 import VisualizeChart from "./visualize-chart";
-import Conquer from "./conquer";
+// import Conquer from "./conquer";
 
 export default function Visualization() {
   return (
     <div className="bg-[url(/img/SP_SECTION_BG.png)] bg-no-repeat bg-cover w-full">
       <section className="pb-12 pt-16 lg:pb-20 lg:pt-42">
-        <div className="max-w-[1200px] mx-auto relative p-1">
+        <div className="max-w-[1000px] mx-auto relative p-1">
           <div className="bg-[url(/img/SP_RANKING_TITLE.png)] bg-center bg-no-repeat bg-contain left-0 right-0 mx-auto w-[322px] h-[61px] absolute -top-10 lg:-top-30 lg:w-full lg:h-[200px]"></div>
           <RankingTable />
         </div>

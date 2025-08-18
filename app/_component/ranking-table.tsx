@@ -13,7 +13,7 @@ export default function RankingTable() {
       "
       >
         <thead>
-          <tr className="text-yellow-400 text-center text-sm sm:text-base md:text-[24px] lg:text-[26px] lg:font-[900]">
+          <tr className="text-yellow-400 text-center text-[12px] sm:text-base md:text-[24px] lg:text-[26px] lg:font-[900]">
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">MILESTONE</th>
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">
               MINIMUM VALID BET BONUS
@@ -46,6 +46,9 @@ export default function RankingTable() {
               </td>
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
                 {item.bet}
+              </td>
+              <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
+                {item.bonus}
               </td>
             </tr>
           ))}
