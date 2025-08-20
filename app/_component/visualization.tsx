@@ -13,7 +13,7 @@ export default function Visualization() {
         </div>
       </section>
       <section className="pb-12 lg:pb-20">
-        <div className="bg-[url(/img/SP_SLOT_RANKING_TITLE.png)] mx-auto bg-center bg-no-repeat bg-contain  w-[322px] h-[61px] lg:w-full lg:h-[200px]"></div>
+        <div className="bg-[url(/img/SP_CHART_RANKING_TITLE.png)] mx-auto bg-center bg-no-repeat bg-contain  w-[322px] h-[61px] lg:w-full lg:h-[200px]"></div>
         <div className="p-4">
           <div
             className="max-w-[1200px] mx-auto 
