@@ -91,7 +91,7 @@ export default function Header() {
                 SIGNUP
               </Link> */}
 							<Link
-								href="https://www.swerteplus.com/"
+								href="https://www.swerteplus.ph/"
 								className="bg-[linear-gradient(to_bottom,#F9B34F_0%,#FB5F2E_58%,#FB341E_81%,#FC0A0D_100%)] px-4 py-2 rounded-full shadow-md text-center
                             transition-transform transform hover:scale-105 duration-300
                             md:w-[150px]
@@ -133,7 +133,7 @@ export default function Header() {
             SIGNUP
           </Link> */}
 					<Link
-						href="#"
+						href="https://www.swerteplus.ph/"
 						className="bg-[linear-gradient(to_bottom,#F9B34F_0%,#FB5F2E_58%,#FB341E_81%,#FC0A0D_100%)]
         w-full
          py-3 rounded-full shadow-md text-center lg:px-4
